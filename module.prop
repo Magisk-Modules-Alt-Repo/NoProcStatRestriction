@@ -1,0 +1,6 @@
+id=NoProcStatRestriction
+name=Remove /proc/stat restriction
+version=v0.1
+versionCode=1
+author=LY
+description=Remove /proc/stat restriction on Android O and above
