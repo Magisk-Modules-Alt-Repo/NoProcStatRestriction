@@ -1,0 +1,1 @@
+allow untrusted_app_all proc_stat file { open read getattr }
